@@ -77,7 +77,22 @@
  <a href="https://www.linkedin.com/in/lucas-reis-b2a054243/" target="_blank">
   <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<br>
 
+<div>
+   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Light.svg" alt="Java" title="Java" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Spring-Light.svg" alt="Spring" title="Spring" />
+   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Angular-Light.svg" alt="Angular" title="Angular" />
+  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" />
+  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Light.svg" alt="Postgresql" title="Postgresql" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" title="Git" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" alt="GitHub" title="GitHub" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Idea-Light.svg" alt="Intellij" title="Intellij" />
+ <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
+
+</div>
 <br><br>
 
 
@@ -109,27 +124,6 @@
 </table>
 
 <br>
-<br>
 
-- ## **Technologies**
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
-
-<br>
-<div>
-   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Light.svg" alt="Java" title="Java" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Spring-Light.svg" alt="Spring" title="Spring" />
-   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Angular-Light.svg" alt="Angular" title="Angular" />
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" />
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Light.svg" alt="Postgresql" title="Postgresql" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" title="Git" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" alt="GitHub" title="GitHub" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Idea-Light.svg" alt="Intellij" title="Intellij" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
-
-</div>
 
 <br>
