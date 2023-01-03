@@ -7,13 +7,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasoliva&theme=tokyonight&show_icons=true"/>
 </div>
 
-<div>
-<a href="https://www.linkedin.com/in/lucas-p-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<a href="mailto: lucasreis64@gmail.com" target="_blank">
+
+<a href="mailto: lucas.oliveirab0531@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
- <a href="https://www.linkedin.com/in/lucas-reis-b2a054243/" target="_blank">
+ <a href="https://www.linkedin.com/in/lucas-p-oliveira/" target="_blank">
   <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
