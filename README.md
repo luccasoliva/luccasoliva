@@ -82,7 +82,7 @@
   <tbody>
     <tr>
       <td>
-         <img width="300px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/28da8fc8ac65a9e5f7179dbbd67e6cdbfdf2bb76/images/marquee.svg"/>
+         <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/28da8fc8ac65a9e5f7179dbbd67e6cdbfdf2bb76/images/marquee.svg"/>
       </td>
    </tr>
     
