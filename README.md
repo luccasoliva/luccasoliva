@@ -40,23 +40,6 @@
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
 
 </div>
-<br><br>
-
-  
-<br>
-<div>
-  <table align="center">
-  <tbody>
-    <tr>
-      <td>
-         <img width="300px" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
-      </td>
-   </tr>
-    
-  </tbody>
-</table>
-<div>
-
 <br>
 
 
@@ -90,4 +73,22 @@
 <br>
 
 
+  <br>
+
+  
+<br>
+<div>
+  <table align="center">
+  <tbody>
+    <tr>
+      <td>
+         <img width="300px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/28da8fc8ac65a9e5f7179dbbd67e6cdbfdf2bb76/images/marquee.svg"/>
+      </td>
+   </tr>
+    
+  </tbody>
+</table>
+<div>
+
+<br>
 <br>
