@@ -10,67 +10,6 @@
 <div>
 <a href="https://www.linkedin.com/in/lucas-p-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<br>
-
-<table>
-  <tbody>
-    <tr>
-      <td align="left" width="60%">
-         <p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile. I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
-   </tr>
-  </tbody>
-</table>
-
-<br>
-
-<table align='center'>
-  <tbody>
-    <tr>
-      <td align="center" width="60%">
-         <div>
-
-   ## **Front-end:**
-
-   -   **React JS**
-   -   **JavaScript**
-   -   **HTML5**
-   -   **CSS3**
-   -   **TypeScript**
-
-</div>
-      </td>
-      <td align="center" width="40%">
-         
-<div>
-
-   ## **Back-end:**
-
-   -   **Node.js**
-   -   **MongoDB**
-   -   **PostgreSQL**
-   -   **TypeScript**
-   -   
-</div>
-              </td>
-   </tr>
-    
-  </tbody>
-</table>
-<div>
-  <table align="center">
-  <tbody>
-    <tr>
-      <td>
-         <img width="300px" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
-      </td>
-   </tr>
-    
-  </tbody>
-</table>
-<div>
-
 <a href="mailto: lucasreis64@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -94,6 +33,31 @@
 
 </div>
 <br><br>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left" width="60%">
+         <p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile. I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
+   </tr>
+  </tbody>
+</table>
+  
+<br>
+<div>
+  <table align="center">
+  <tbody>
+    <tr>
+      <td>
+         <img width="300px" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
+      </td>
+   </tr>
+    
+  </tbody>
+</table>
+<div>
+
+<br>
 
 
 - ## **My Projects**
