@@ -36,7 +36,7 @@
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" title="Git" />
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" alt="GitHub" title="GitHub" />
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Idea-Light.svg" alt="Intellij" title="Intellij" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
 
 </div>
