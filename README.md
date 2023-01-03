@@ -1,5 +1,15 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lucas
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td align="left" width="60%">
+         <p style="text-indent: 20px;">Hi! My name is Lucas Oliveira and I am a fullstack Java developer with experience in Angular. I am currently studying computer science, but I also have a passion for self-learning and staying up to date with the latest technologies. I enjoy working in teams and have experience collaborating on projects. In my free time, I like to work on personal projects to continue learning and improving my skills.</p>
+   </tr>
+  </tbody>
+</table>
+
+<br>
 
 <div>
 <a href="https://github.com/luccasoliva">
@@ -32,14 +42,6 @@
 </div>
 <br><br>
 
-<table>
-  <tbody>
-    <tr>
-      <td align="left" width="60%">
-         <p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile. I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
-   </tr>
-  </tbody>
-</table>
   
 <br>
 <div>
