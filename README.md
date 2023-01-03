@@ -86,8 +86,8 @@
 <table height="310px">
   <tbody>
     <tr>
-      <th align="center" width="50%"> React, MongoDB && Node.js SoloWork </th>
-      <th align="center"width="50%"> React, MongoDB && Node.js TeamWork</th>
+      <th align="center" width="50%"> Java, Spring Boot, MySQL, Redis. SoloWork </th>
+      <th align="center"width="50%"> Java, Spring Boot, TypeScript, Angular, MySQL. TeamWork</th>
     </tr>
     <tr>
       <td>
@@ -102,7 +102,7 @@
            <a href="https://github.com/luccasoliva/business-partner-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-back&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/luccasoliva/Ecommerce-Imobiliaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=Ecommerce-Imobiliaria"></a>
+         <a href="https://github.com/luccasoliva/Ecommerce-Imobiliaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=Ecommerce-Imobiliaria&theme=github_dark"></a>
       </td>
     </tr>
   </tbody>
