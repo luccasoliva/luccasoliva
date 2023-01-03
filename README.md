@@ -81,7 +81,7 @@
 <br><br>
 
 
-- ## **Full-Stack only Projects**
+- ## **My Projects**
 
 <table height="310px">
   <tbody>
@@ -91,91 +91,24 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/lucasreis64/mywallet~front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-front&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/business-partner-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-front&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/lucasreis64/e-commerce-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-front&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/e-commerce-front-main"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-front-main&theme=github_dark"></a>
       </td>
    </tr>
    <tr>
       <td>
-           <a href="https://github.com/lucasreis64/mywallet-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-back&theme=github_dark"></a>
+           <a href="https://github.com/luccasoliva/business-partner-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-back&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/lucasreis64/e-commerce-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-back&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/Ecommerce-Imobiliaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=Ecommerce-Imobiliaria"></a>
       </td>
     </tr>
   </tbody>
 </table>
 
 <br>
-
-
-- ## **Front-end only Projects**
-
-<table height="310px">
-  <tbody>
-    <tr>
-      <th align="center" width="50%"> React </th>
-      <th align="center" width="50%">Javascript Vanilla</th>
-    </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=trackit&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/parrotscardgame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=parrotscardgame&theme=github_dark"></a>
-         </td>
-   </tr>
-   <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/zaprecall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=zaprecall&theme=github_dark"></a>
-         </td>
-         <td>
-            <a href="https://github.com/lucasreis64/driveneats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=driveneats&theme=github_dark"></a>
-         </td>
-    </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/cineflex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=cineflex&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/batepapouol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapouol&theme=github_dark"></a>
-         </td>
-    </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/instagramreact"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=instagramreact&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/BuzzQuizz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=BuzzQuizz&theme=github_dark"></a>
-         </td>
-    </tr>
-
-  </tbody>
-</table>
-
-<br>
-
-- ## **Back-end only Projects**
-
-<table>
-   <tbody>
-      <tr>
-         <th align="center" width="50%">Node.js & MongoDB</th>
-         <th align="center" width="50%">Node.js & PostgreSQL</th>
-      </tr>
-      <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/batepapo-uol-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapo-uol-api&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/boardcamp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=boardcamp&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
 <br>
 
 - ## **Technologies**
@@ -191,8 +124,8 @@
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Angular-Light.svg" alt="Angular" title="Angular" />
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" />
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Light.svg" alt="Postgresql" title="Postgresql" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" title="Git" />
+ <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" alt="GitHub" title="GitHub" />
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Idea-Light.svg" alt="Intellij" title="Intellij" />
  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
