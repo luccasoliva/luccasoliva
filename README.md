@@ -10,7 +10,7 @@
 </table>
 
 <br>
-
+<br>
 <div>
 <a href="https://github.com/luccasoliva">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasoliva&layout=compact&theme=tokyonight&langs_count=5"/>
