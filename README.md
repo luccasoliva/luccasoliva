@@ -53,18 +53,18 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/luccasoliva/business-partner-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-front&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/business-partner-front"><img src="https://github-readme-stats-nine-phi-26.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-front&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/luccasoliva/e-commerce-front-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-front-&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/e-commerce-front-"><img src="https://github-readme-stats-nine-phi-26.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-front-&theme=github_dark"></a>
       </td>
    </tr>
    <tr>
       <td>
-           <a href="https://github.com/luccasoliva/business-partner-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-back&theme=github_dark"></a>
+           <a href="https://github.com/luccasoliva/business-partner-back"><img src="https://github-readme-stats-nine-phi-26.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-back&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/luccasoliva/e-commerce-back-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-back-&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/e-commerce-back-"><img src="https://github-readme-stats-nine-phi-26.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-back-&theme=github_dark"></a>
       </td>
     </tr>
   </tbody>
