@@ -12,7 +12,7 @@
 <br>
 <div>
 <a href="https://github.com/luccasoliva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAT_1&layout=compact&theme=tokyonight&langs_count=5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasoliva&layout=compact&theme=tokyonight&langs_count=5"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasoliva&theme=tokyonight&show_icons=true"/>
 </div>
 <br>
