@@ -56,7 +56,7 @@
          <a href="https://github.com/luccasoliva/business-partner-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-front&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/luccasoliva/e-commerce-front-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-front-main&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/e-commerce-front-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-front-&theme=github_dark"></a>
       </td>
    </tr>
    <tr>
@@ -64,7 +64,7 @@
            <a href="https://github.com/luccasoliva/business-partner-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=business-partner-back&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/luccasoliva/e-commerce-back-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=Ecommerce-Imobiliaria&theme=github_dark"></a>
+         <a href="https://github.com/luccasoliva/e-commerce-back-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-back-&theme=github_dark"></a>
       </td>
     </tr>
   </tbody>
