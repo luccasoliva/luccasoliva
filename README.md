@@ -33,13 +33,12 @@
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Angular-Light.svg" alt="Angular" title="Angular" />
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" />
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Light.svg" alt="Postgresql" title="Postgresql" />
+  <img height="50" src="https://www.iconshock.com/image/Golden/Database/oracle" alt="Oracle" title="Oracle" />
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" title="Git" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" alt="GitHub" title="GitHub" />
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Idea-Light.svg" alt="Intellij" title="Intellij" />
- <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" alt="Docker" title="Docker" />
-<img height="50" src="https://www.iconshock.com/image/Golden/Database/oracle" alt="Oracle" title="Oracle" />
+
 
 </div>
 <br>
