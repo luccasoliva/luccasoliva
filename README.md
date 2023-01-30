@@ -39,7 +39,7 @@
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" alt="Docker" title="Docker" />
-<img height="50" src="https://cloudadminweb.files.wordpress.com/2020/12/oracle_exacs.png" alt="Oracle" title="Oracle" />
+<img height="50" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" alt="Oracle" title="Oracle" />
 
 </div>
 <br>
