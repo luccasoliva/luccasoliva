@@ -48,8 +48,9 @@
 <table height="310px">
   <tbody>
     <tr>
-      <th align="center" width="50%"> Java, Spring Boot, Angular. SoloWork </th>
-      <th align="center"width="50%"> Java, Spring Boot, Angular, MySQL. TeamWork</th>
+      <th align="center" width="33%"> Java, Spring, Angular.</th>
+      <th align="center"width="33%"> Java, Spring, Angular, MySQL</th>
+      <th align="center"width="33%"> Java, Spring, Angular, MySQL, Docker, redis.</th>
     </tr>
     <tr>
       <td>
