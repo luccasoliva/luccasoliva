@@ -39,7 +39,7 @@
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
   
-<img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fangelozero%2Falura-docker&psig=AOvVaw3gKnYxp1b68Wroh85nLhTD&ust=1675197590556000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKD6nbqT8PwCFQAAAAAdAAAAABA4" alt="Docker" title="Docker" />
+<img height="50" src="https://camo.githubusercontent.com/51d9e114ae2938bb7cb75f3fd5af61fc5878b09947af95f1f4403113eed16151/68747470733a2f2f7777772e6c6f676f6c796e782e636f6d2f696d616765732f6c6f676f6c796e782f34302f34303530656633653835336532333031653136383633626233613138376564332e6a706567" alt="Docker" title="Docker" />
 </div>
 <br>
 
