@@ -38,8 +38,9 @@
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Idea-Light.svg" alt="Intellij" title="Intellij" />
  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Light.svg" alt="GCP" title="GCP" />
-  
-<img height="50" src="https://camo.githubusercontent.com/51d9e114ae2938bb7cb75f3fd5af61fc5878b09947af95f1f4403113eed16151/68747470733a2f2f7777772e6c6f676f6c796e782e636f6d2f696d616765732f6c6f676f6c796e782f34302f34303530656633653835336532333031653136383633626233613138376564332e6a706567" alt="Docker" title="Docker" />
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" alt="Docker" title="Docker" />
+<img height="50" src="https://cloudadminweb.files.wordpress.com/2020/12/oracle_exacs.png" alt="Oracle" title="Oracle" />
+
 </div>
 <br>
 
