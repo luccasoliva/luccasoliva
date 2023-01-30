@@ -58,6 +58,9 @@
       <td>
          <a href="https://github.com/luccasoliva/e-commerce-front-"><img src="https://readme-stats-lucca.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-front-&theme=github_dark"></a>
       </td>
+      <td>
+         <a href="https://github.com/luccasoliva/services-frontend"><img src="https://readme-stats-lucca.vercel.app/api/pin/?username=luccasoliva&repo=services-frontend&theme=github_dark"></a>
+      </td>
    </tr>
    <tr>
       <td>
@@ -65,6 +68,9 @@
       </td>
       <td>
          <a href="https://github.com/luccasoliva/e-commerce-back-"><img src="https://readme-stats-lucca.vercel.app/api/pin/?username=luccasoliva&repo=e-commerce-back-&theme=github_dark"></a>
+      </td>
+     <td>
+           <a href="https://github.com/luccasoliva/services-backend"><img src="https://readme-stats-lucca.vercel.app/api/pin/?username=luccasoliva&repo=services-backend&theme=github_dark"></a>
       </td>
     </tr>
   </tbody>
