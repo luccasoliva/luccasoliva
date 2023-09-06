@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td align="left" width="60%">
-         <p style="text-indent: 20px;">Hi there! My name is Lucas, and I'm a fullstack Java developer. I'm currently pursuing a degree in computer science, but I also have a passion for self-learning and staying up-to-date with new technologies. I've had the opportunity to work on team projects in the past and really enjoy the collaborative process. In my free time, I like to work on personal projects to continue improving my skills and expanding my knowledge.</p>
+         <p style="text-indent: 20px;">Hi there! My name is Lucas, and I'm a fullstack developer. I'm currently pursuing a degree in computer science, but I also have a passion for self-learning and staying up-to-date with new technologies. I've had the opportunity to work on team projects in the past and really enjoy the collaborative process. In my free time, I like to work on personal projects to continue improving my skills and expanding my knowledge.</p>
    </tr>
   </tbody>
 </table>
